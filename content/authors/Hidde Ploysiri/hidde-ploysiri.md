@@ -5,12 +5,12 @@ bio: |-
   Creating Memories With My Loved Ones.
 avatar: "/images/hidde_avatar-1.png"
 social:
-- title: Twitter
-  url: https://twitter.com/skruvmuq
-- title: LinkedIn
-  url: https://www.linkedin.com/in/hidde-ploysiri/
 - title: Github
   url: https://github.com/ID15CF7
+- title: LinkedIn
+  url: https://www.linkedin.com/in/hidde-ploysiri/
+- title: Twitter
+  url: https://twitter.com/skruvmuq
 featured: true
 
 ---
