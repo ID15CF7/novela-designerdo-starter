@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://www.designerdo.nl/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "designerDo"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -8,13 +8,13 @@ metaDataFormat: yaml
 # theme: novela
 module:
   imports:
-    - path: "github.com/forestryio/hugo-theme-novela"
+    - path: "github.com/ID15CF7/hugo-theme-novela-deisgnerdo"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
+  twitter: "https://twitter.com/skruvmuq"
+  github: "https://github.com/ID15CF7"
   instagram: "#"
-  linkedin: "#"
+  linkedin: "https://www.linkedin.com/in/hidde-ploysiri/"
   dribbble: "#"
   youtube: "#"
 taxonomies:
