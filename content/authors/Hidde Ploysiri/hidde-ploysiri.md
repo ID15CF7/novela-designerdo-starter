@@ -12,6 +12,5 @@ social:
 - title: Github
   url: https://github.com/ID15CF7
 featured: true
-draft: true
 
 ---
